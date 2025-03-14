@@ -1,5 +1,5 @@
 <h2>Hi there! I'm Luiz R. Bortolotti Jr., also known as crusaderMD in games.</h2>
-<p>Welcome to my GitHub profile! </p>
+<h3>Welcome to my GitHub profile!</h3>
 <p>I'm a passionate programming student and Junior Software Developer currently pursuing a technical degree in Systems Analysis and Development.</p>
 <p>Here, you'll find some of my personal projects and contributions. Feel free to explore and collaborate!</p>
 <h3><a href="https://crusadermd.github.io/perfil-dev/">More about me!</a></h3>
