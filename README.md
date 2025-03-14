@@ -41,4 +41,14 @@
 </ul>
 <br>
 <h2>Contact</h2>
-
+<div> 
+    <a href="mailto:luiz_bortolotti@hotmail.com">
+        <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/luiz-roberto-bortolotti-junior/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://wa.me/5519995554682?text=Olá%20Luiz,%20gostaria%20de%20entrar%20em%20contato%20para%20conversar.%20Fico%20no%20aguardo%20da%20sua%20resposta.">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a> 
+</div>
