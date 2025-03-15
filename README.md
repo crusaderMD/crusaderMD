@@ -1,4 +1,4 @@
-<img src="" alt="pacman">
+<img src="pacman.gif" alt="pacman">
 <br>
 <h2>Hi there! I'm Luiz R. Bortolotti Jr., also known as crusaderMD in games.</h2>
 <h3>Welcome to my GitHub profile!</h3>
