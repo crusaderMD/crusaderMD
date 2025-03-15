@@ -40,6 +40,14 @@
   <li>Motivation and Self-discipline</li>
 </ul>
 <br>
+<h2>Follow Me On</h2>
+<a href="https://www.youtube.com/CrusaderMD">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://www.twitch.tv/crusader_mdbr">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+<br>
 <h2>Contact</h2>
 <div> 
     <a href="mailto:luiz_bortolotti@hotmail.com">
