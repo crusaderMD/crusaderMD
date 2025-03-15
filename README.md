@@ -41,10 +41,10 @@
 </ul>
 <br>
 <h2>Follow Me On</h2>
-<a href="https://www.youtube.com/CrusaderMD">
+<a href="https://www.youtube.com/CrusaderMD" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://www.twitch.tv/crusader_mdbr">
+<a href="https://www.twitch.tv/crusader_mdbr" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 <br>
