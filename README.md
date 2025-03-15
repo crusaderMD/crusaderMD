@@ -1,5 +1,4 @@
 <img src="pacman.gif" alt="pacman">
-<br>
 <h2>Hi there! I'm Luiz R. Bortolotti Jr., also known as crusaderMD in games.</h2>
 <h3>Welcome to my GitHub profile!</h3>
 <p>I'm a passionate programming student and Junior Software Developer currently pursuing a technical degree in Systems Analysis and Development.</p>
