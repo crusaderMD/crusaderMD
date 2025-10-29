@@ -6,12 +6,14 @@
 <h3><a href="https://crusadermd.github.io/perfil-dev/">More about me!</a></h3>
 <h2>Hard Skills</h2>
 <div style="display: inline_block">
-  <img align="center" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" />
-  <img align="center" src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="40" />  
-  <img align="center" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" />
-  <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" />
-  <img align="center" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
+  <img align="center" alt="Java" height="40" width="40" style="margin: 5px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+  <img align="center" alt="C#" height="40" width="40" style="margin: 5px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">
+  <img align="center" alt=".NET" height="40" width="40" style="margin: 5px" src="https://img.icons8.com/color/48/000000/net-framework.png">
+  <img align="center" alt="HTML" height="40" width="40" style="margin: 5px" src="https://img.icons8.com/color/48/000000/html-5.png">
+  <img align="center" alt="CSS" height="40" width="40" style="margin: 5px" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img align="center" alt="JavaScript" height="40" width="40" style="margin: 5px" src="https://img.icons8.com/color/48/000000/javascript.png">
 </div>
+
 <br>
 <div style="display: inline_block">
 <a href="https://github.com/crusaderMD/convoychat">
